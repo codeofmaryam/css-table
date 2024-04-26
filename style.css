@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+table{
+    margin: 0px auto;
+    border-color: aqua;
+    border: 1px solid rgb(9, 131, 131);
+    border-top-left-radius: 50%;
+    border-collapse: collapse;
+    
+}
+.user{
+    background-color: rgb(65, 171, 171);
+}
+td,th{
+     border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin-top: 5px;
+    color: black
+
+}
+tr:nth-child(even){
+    background-color: rgb(187, 234, 234);
+}
+
+
+
+img{
+    border-radius: 50%;
+   
+    
+
+}
